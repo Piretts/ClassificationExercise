@@ -1,0 +1,20 @@
+<annotation>
+	<folder>images</folder>
+	<filename>01.jpg</filename>
+	<path>/home/marketa/projects/internals/python-skill-check/images/01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<depth>3</depth>
+	<width>800</width><height>450</height></size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin><xmax>437</xmax><ymin>21</ymin><ymax>318</ymax></bndbox>
+	</object>
+</annotation>
